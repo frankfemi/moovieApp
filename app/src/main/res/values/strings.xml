@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cinema App</string>
+    <string name="titre_film_hint">Titre du Film</string>
+    <string name="date_film_hint">Date</string>
+    <string name="heure_film_hint">Heure</string>
+    <string name="note_scenario_film_hint">Note du scénario</string>
+    <string name="note_realisation_film_hint">Note de la réalisation</string>
+    <string name="note_musique_film_hint">Note musique (max 99)</string>
+    <string name="description_hint">Critique</string>
+    <string name="add_button_text">Noter un film</string>
+    <string name="save_button_text">Enregistrer</string>
+    <string name="home_text">Bienvenu dans Moovie App</string>
+    <string name="liste_text">Ma liste de films</string>
+    <string name="ajout_text">Notez un film</string>
+    <string name="default_titre_film">[Titre du Film]</string>
+    <string name="default_note">\?</string>
+</resources>
